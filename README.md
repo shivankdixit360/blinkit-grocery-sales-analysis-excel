@@ -65,6 +65,8 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 
 ### 👨‍💻 Author
 **Name:** Shivank Dixit  
+📧 [shivankdixit730@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivank-dixit-b61a3623b)
 **Role:** Data Analyst (Student Project)  
 **Tools:** Excel | Data Cleaning | EDA | Dashboard Design  
 
