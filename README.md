@@ -39,7 +39,7 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 --- 
 
 ## Dashboard Preview
-![Sales Dashboard](./3_Sales_Dashboard_Snapshot.png)
+![Sales Dashboard](./3_Dashboard_Snapshot.png)
 
 ---
 
