@@ -9,7 +9,7 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 ### 🧩 Dataset Information
 - **Rows:** 8524  
 - **Columns:** 12  
-- **Source:** Blinkit Grocery Sales Data (Kaggle/Open Dataset)
+- **Source:** Blinkit Grocery Sales Data --From Kaggle
 
 | Column Name | Description |
 |--------------|-------------|
