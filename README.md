@@ -44,7 +44,7 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 ---
 
 ## Key Insights & Report
-Download the full report here: [Sales Analysis Report](./4_Sales_Analysis_Report.docx)
+Download the full report here: [Sales Analysis Report](./4_Final_Report.docx)
 
 
 ---
