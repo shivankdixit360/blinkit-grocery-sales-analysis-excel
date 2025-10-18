@@ -62,12 +62,6 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 
 ---
 
-### 🧾 Conclusion
-The analysis highlights how outlet size, location, and product category directly influence overall sales performance.  
-Medium outlets and Tier 3 areas emerged as the top contributors to revenue.  
-The dashboard helps decision-makers quickly identify profitable areas and optimize future sales strategies.
-
----
 
 ### 👨‍💻 Author
 **Name:** Shivank Dixit  
