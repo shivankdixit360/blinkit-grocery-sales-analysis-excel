@@ -35,6 +35,24 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
   - Dashboard Design  
 - **EDA Techniques** (for data understanding & summary creation)
 
+- ## Dashboard Preview
+![Sales Dashboard](./3_Sales_Dashboard_Snapshot.png)
+
+
+## Key Insights & Report
+Download the full report here: [Sales Analysis Report](./4_Sales_Analysis_Report.docx)
+
+
+## How to Use
+Download the Excel workbook here: [Sales Dashboard Workbook](./2_Sales_Dashboard_Workbook.xlsx)
+
+**Steps to use:**
+1. Download the workbook from the above link.
+2. Open it in Microsoft Excel .
+3. Explore the **Raw Data** sheet first to understand the dataset.
+4. View the **Dashboard** sheet for visual representation of key metrics.
+5. Use slicers to explore data  
+
 ---
 
 ### Key Insights
@@ -54,16 +72,6 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 5. Maintain product quality to sustain customer satisfaction levels.
 
 ---
-
-### Project Files & Links
-- **Raw Dataset:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/1-BlinkIT%20Grocery%20Raw%20Data.xlsx)  
-- **Main Project Workbook:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Main%20Project%20Workbook.xlsx)  
-- **Dashboard Snapshot:** ![Dashboard](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Dashboard%20Snapshot.png)  
-- **Final Report:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Final%20Report%20.docx)
-
-
----
-
 
 ### 👨‍💻 Author
 **Name:** Shivank Dixit  
