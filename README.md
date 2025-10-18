@@ -56,7 +56,7 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 ---
 
 ### Project Files & Links
-- **Dashboard Snapshot:** [Click here](./Blinkit_Dashboard_Preview.png)  
+- **Dashboard Snapshot:** [Click here](./3-Dashboard Snapshot.png)  
 - **Final Report:** [Click here](./Blinkit_Final_Report.docx)  
 - **Main Project Workbook:** [Click here](./Blinkit_Sales_Dashboard.xlsx)  
 
