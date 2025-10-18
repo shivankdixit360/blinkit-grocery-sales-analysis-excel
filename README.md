@@ -25,6 +25,7 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 | Sales | Total sales amount |
 | Rating | Customer satisfaction rating |
 
+
 ---
 
 ### ⚙️ Tools Used
@@ -34,6 +35,8 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
   - Charts & Visualizations  
   - Dashboard Design  
 - **EDA Techniques** (for data understanding & summary creation)
+
+--- 
 
 ## Dashboard Preview
 ![Sales Dashboard](./3_Sales_Dashboard_Snapshot.png)
