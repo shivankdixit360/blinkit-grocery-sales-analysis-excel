@@ -56,9 +56,11 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
 ---
 
 ### Project Files & Links
-- **Dashboard Snapshot:** [Click here](./3-Dashboard Snapshot.png)  
-- **Final Report:** [Click here](./Blinkit_Final_Report.docx)  
-- **Main Project Workbook:** [Click here](./Blinkit_Sales_Dashboard.xlsx)  
+- **Raw Dataset:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/1-BlinkIT%20Grocery%20Raw%20Data.xlsx)  
+- **Main Project Workbook:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Main%20Project%20Workbook.xlsx)  
+- **Dashboard Snapshot:** ![Dashboard](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Dashboard%20Snapshot.png)  
+- **Final Report:** [Click here](https://github.com/ShivankDixit/Blinkit-Sales-Analysis/blob/main/Final%20Report%20.docx)
+
 
 ---
 
