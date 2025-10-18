@@ -35,13 +35,16 @@ The goal was to identify key sales trends, customer preferences, and outlet perf
   - Dashboard Design  
 - **EDA Techniques** (for data understanding & summary creation)
 
-- ## Dashboard Preview
+## Dashboard Preview
 ![Sales Dashboard](./3_Sales_Dashboard_Snapshot.png)
 
+---
 
 ## Key Insights & Report
 Download the full report here: [Sales Analysis Report](./4_Sales_Analysis_Report.docx)
 
+
+---
 
 ## How to Use
 Download the Excel workbook here: [Sales Dashboard Workbook](./2_Sales_Dashboard_Workbook.xlsx)
